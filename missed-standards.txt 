@@ -1,0 +1,39 @@
+create css file with name "styles.css" and moved style from "index.htm" to "styles.css",because we must separate content from presentation.
+List changes 
+ 1 <!DOCTYPE html>
+ 2 attribute lang="en"
+ 3 tag <meta charset="UTF-8">
+ 4 close <body> tag
+ 5 main tag
+ 6 add footer tag 
+ 7 add tag header, and correct css class main-nav
+ 8 delete old tad header 
+ 9 image add atribute alt 
+10 transfer <style> in header
+11 fix tag <meta http-equiv="X-UA-Compatible" content="IE=edge">
+12 delete tag div with class="footer"
+13 create new stylesheets css file
+14 added semicolon in css file in the end string
+15 fixed path in selector background-color
+16 add article tag 
+17 add section tag 
+18 replace span with figure   
+19 delete attribute id="navbar-1"
+20 replace connection outside stylesheets from html4 on connection html5
+21 replace one property "border-bottom"
+22 delete unit of measure 'px' with zero values
+23 replace one property "padding" 
+24 renamed css selectors "first-block" on the "introduction"
+25 renamed css selectors "second-block" on the "experience"
+26 renamed css selectors "third-block" on the "achievements"
+27 renamed css selectors "second" on the "bottom"
+28 delete element span with attribute id='typed'
+29 use 3 characters hexadecimal #333333 -> #333, changed all properties 
+30 changed prefix property 0.3 -> .3
+31 write about that i create new file css 
+32 delete li elements end tag 
+33 delete property transition
+34 join picture "logo" in srite
+35 add property "background-position" in list icon
+
+   
